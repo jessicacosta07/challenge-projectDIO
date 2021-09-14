@@ -29,8 +29,9 @@
 * Alura
 * Origamid
 * Rocketseat
+* Gama Academy
 
-Youtube:
+### Youtube:
 
 * Curso em Vídeo - Gustava Guanabara
 * Filipe Deschamps 
@@ -40,3 +41,10 @@ Youtube:
 * Attekita Dev
 * freeCodeCamp.org 
 * Fabio Akita, etc
+
+### Tools:
+
+* Visual Studio Code
+* Figma
+* Trello
+* Notions
