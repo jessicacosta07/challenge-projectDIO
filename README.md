@@ -30,4 +30,13 @@
 * Origamid
 * Rocketseat
 
-Youtebe:
+Youtube:
+
+* Curso em Vídeo - Gustava Guanabara
+* Filipe Deschamps 
+* Filho da nuvem
+* Rocketseat 
+* Programação Dinâmica
+* Attekita Dev
+* freeCodeCamp.org 
+* Fabio Akita, etc
