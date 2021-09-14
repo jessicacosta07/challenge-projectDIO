@@ -1,8 +1,6 @@
 # Bootcamp Eduzz Fullstack Developer Project
 
-## Useful links
-
-### Documentation:
+### Materials:
 
 [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 <br/>
