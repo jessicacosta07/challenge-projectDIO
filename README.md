@@ -16,6 +16,8 @@
 
 ### Bootcamps:
 
+* HTML Web Developer
+* JavaScript Game Developer
 * MRV Front End SPA Developer
 * LocalizaLabs React Developer
 * Hiring Coders
