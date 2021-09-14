@@ -2,7 +2,7 @@
 
 ## Useful links
 
-Documentation:
+### Documentation:
 
 [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 <br/>
@@ -16,9 +16,18 @@ Documentation:
 <br/>
 [Node JS](https://nodejs.org/en/docs/)
 
-Bootcamps:
+### Bootcamps:
 
 * MRV Front End SPA Developer
 * LocalizaLabs React Developer
 * Hiring Coders
 * Eduzz Fullstack Developer(studying)
+
+### Plataforms:
+
+* Digital Innovation One(DIO)
+* Alura
+* Origamid
+* Rocketseat
+
+Youtebe:
