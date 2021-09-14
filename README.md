@@ -33,7 +33,7 @@
 
 ### Youtube:
 
-* Curso em Vídeo - Gustava Guanabara
+* Curso em Vídeo - Gustavo Guanabara
 * Filipe Deschamps 
 * Filho da nuvem
 * Rocketseat 
