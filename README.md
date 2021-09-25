@@ -21,7 +21,7 @@
 * MRV Front End SPA Developer
 * LocalizaLabs React Developer
 * Hiring Coders
-* Eduzz Fullstack Developer(studying)
+* Eduzz Fullstack Developer
 
 ### Plataforms:
 
