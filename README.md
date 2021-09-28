@@ -22,6 +22,7 @@
 * LocalizaLabs React Developer
 * Hiring Coders
 * Eduzz Fullstack Developer
+* Impulso React Web Developer
 
 ### Plataforms:
 
