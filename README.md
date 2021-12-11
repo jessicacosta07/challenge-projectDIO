@@ -22,6 +22,7 @@
 * LocalizaLabs React Developer
 * Hiring Coders
 * Eduzz Fullstack Developer
+* Inter Front End Developer
 
 ### Plataforms:
 
