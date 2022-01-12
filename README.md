@@ -24,6 +24,7 @@
 * Eduzz Fullstack Developer
 * Eduzz Fullstack Developer#2
 * Inter Front End Developer
+* Take Blip Web Developer
 
 ### Plataforms:
 
