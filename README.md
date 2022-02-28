@@ -26,6 +26,7 @@
 * Inter Front End Developer
 * Take Blip Web Developer
 * Eduzz Fullstack Developer#3
+* Cognizant Cloud Data Engineer #2
 
 ### Plataforms:
 
