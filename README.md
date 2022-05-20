@@ -13,8 +13,7 @@
 [React JS](https://pt-br.reactjs.org/)
 <br/>
 [Node JS](https://nodejs.org/en/docs/)
-<br/>
-[Python](https://www.python.org/doc/)
+
 
 ### Bootcamps:
 
