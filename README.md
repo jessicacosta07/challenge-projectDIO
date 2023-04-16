@@ -28,6 +28,7 @@
 * Take Blip Web Developer
 * Eduzz Fullstack Developer#3
 * Spread Fullstack Developer
+* Bootcamp Cloud AWS
 
 ### Plataforms:
 
