@@ -13,6 +13,9 @@
 [React JS](https://pt-br.reactjs.org/)
 <br/>
 [Node JS](https://nodejs.org/en/docs/)
+<br/>
+[C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+
 
 
 ### Bootcamps:
@@ -29,6 +32,9 @@
 * Eduzz Fullstack Developer#3
 * Spread Fullstack Developer
 * Bootcamp Cloud AWS
+* Descubra a Nuvem AWS - Nexa Resources
+* Descubra a Nuvem AWS – LocalizaLabs
+* Bootcamp WEX - Desenvolvimento .NET e QA
 
 ### Plataforms:
 
