@@ -1,4 +1,4 @@
-# Bootcamp Eduzz Fullstack Developer Project
+# Bootcamp Eduzz Fullstack Developer
 
 ### Materials:
 
