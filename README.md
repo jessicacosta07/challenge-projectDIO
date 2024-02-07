@@ -35,6 +35,20 @@
 * Descubra a Nuvem AWS - Nexa Resources
 * Descubra a Nuvem AWS – LocalizaLabs
 * Bootcamp WEX - Desenvolvimento .NET e QA
+* Programação C# com CRM Dynamics
+* Desenvolvimento Frontend com Angular
+* Santander Bootcamp Cibersegurança
+* Decola Tech 2024
+  
+
+### Formações:
+* Formação Angular Developer
+* Formação OutSystems Fundamentals
+* Formação CRM Dynamics 365 Developer
+* Formação AWS Cloud Practitioner Certification
+* Formação .NET Developer
+* Workshop OutSystems
+
 
 ### Plataforms:
 
