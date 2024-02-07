@@ -41,7 +41,8 @@
 * Decola Tech 2024
   
 
-### Formações:
+### Formations:
+
 * Formação Angular Developer
 * Formação OutSystems Fundamentals
 * Formação CRM Dynamics 365 Developer
@@ -61,11 +62,9 @@
 ### Youtube:
 
 * Curso em Vídeo - Gustavo Guanabara
-* Filipe Deschamps 
 * Filho da nuvem
 * Rocketseat 
 * Programação Dinâmica
-* Attekita Dev
 * freeCodeCamp.org 
 * Fabio Akita, etc
 
