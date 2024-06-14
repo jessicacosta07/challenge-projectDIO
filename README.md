@@ -16,7 +16,7 @@
 <br/>
 [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
-
+[PHP](https://www.php.net/docs.php)
 
 ### Bootcamps:
 
@@ -48,6 +48,7 @@
 * Formação CRM Dynamics 365 Developer
 * Formação AWS Cloud Practitioner Certification
 * Formação .NET Developer
+* Formação PHP Experience
 * Workshop OutSystems
 
 
